@@ -1,0 +1,33 @@
+.promotion {
+  display: flex;
+  max-width: 1400px;
+  margin: 0 auto;
+  gap: 32px;
+}
+.promotion__1 {
+  height: 247px;
+  width: 416px;
+  div {
+	background-image: url("./../img/Event\ 1.png");
+	height: 247px;
+  width: 416px;
+  }
+}
+.promotion__2 {
+	height: 247px;
+	width: 416px;
+	div {
+	 background-image: url("./../img/Event\ 2.png");
+	 height: 247px;
+	width: 416px;
+	}
+ }
+ .promotion__3 {
+	height: 247px;
+	width: 416px;
+	div {
+	 background-image: url("./../img/Event\ 3.png");
+	 height: 247px;
+	width: 416px;
+	}
+ }

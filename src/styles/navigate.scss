@@ -2,7 +2,11 @@
   display: flex;
   padding-top: 76px;
   gap: 60px;
+  p:hover {
+	color: #e52d2d;
+  }
 }
+
 .navigate__menu {
   color: #000000;
   font-family: "Alegreya-Black", Helvetica;
@@ -13,7 +17,7 @@
   margin-top: -1px;
 }
 .navigate__about {
-  color: #e52d2d;
+	color: #000000;
   font-family: "Alegreya-Black", Helvetica;
   font-size: 18px;
   font-weight: 900;
