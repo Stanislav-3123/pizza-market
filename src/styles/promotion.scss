@@ -2,32 +2,56 @@
   display: flex;
   max-width: 1400px;
   margin: 0 auto;
-  gap: 32px;
+  gap: 49px;
+  h4 {
+	margin-top: 11px;
+	margin-bottom: 0;
+    height: 30px;
+    width: 416px;
+    color: #000000;
+    font-family: "Alegreya-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: 0px;
+    line-height: 30px;
+    letter-spacing: 0px;
+  }
+  p {
+	margin-top: 14px;
+	color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 21px;
+  }
 }
 .promotion__1 {
   height: 247px;
   width: 416px;
   div {
-	background-image: url("./../img/Event\ 1.png");
-	height: 247px;
-  width: 416px;
+    background-image: url("./../img/Event\ 1.png");
+    height: 247px;
+    width: 416px;
   }
 }
 .promotion__2 {
-	height: 247px;
-	width: 416px;
-	div {
-	 background-image: url("./../img/Event\ 2.png");
-	 height: 247px;
-	width: 416px;
-	}
- }
- .promotion__3 {
-	height: 247px;
-	width: 416px;
-	div {
-	 background-image: url("./../img/Event\ 3.png");
-	 height: 247px;
-	width: 416px;
-	}
- }
+  height: 247px;
+  width: 416px;
+  div {
+    background-image: url("./../img/Event\ 2.png");
+    height: 247px;
+    width: 416px;
+  }
+}
+.promotion__3 {
+  height: 247px;
+  width: 416px;
+  div {
+    background-image: url("./../img/Event\ 3.png");
+    height: 247px;
+    width: 416px;
+  }
+}
