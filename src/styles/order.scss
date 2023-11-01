@@ -1,0 +1,45 @@
+.order {
+  display: flex;
+  padding-top: 62px;
+  img {
+    width: 40px;
+    height: 40px;
+  }
+}
+.order__owner {
+  margin: 0;
+  color: #000000;
+  font-family: "Alegreya-Black", Helvetica;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  line-height: normal;
+  margin-top: -1px;
+}
+
+.order__basket {
+  margin: 0;
+  color: #838a99;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0px;
+  line-height: 18px;
+}
+.order__quantity {
+	font-family: "Roboto-Regular", Helvetica;
+	text-align: center;
+	margin-left: -10px;
+	margin-top: -10px;
+	margin-right: 1px;
+	margin-bottom: -3px;
+  background-color: #e52d2d;
+  color: #fff;
+  border-radius: 10px;
+  height: 22px;
+  width: 22px;
+  
+  
+}
